@@ -17,7 +17,7 @@ Automatizar a leitura, tratamento e registro de dados provenientes de arquivos C
 ## 🧰 Tecnologias Utilizadas
 
 - Power Automate (Cloud Flow)
-- SharePoint / OneDrive (armazenamento de arquivos)
+- SharePoint
 - SharePoint List (base de dados)
 - Ações de dados:
   - Create file
