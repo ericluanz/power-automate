@@ -104,7 +104,7 @@ Esse controle garante integridade e evita duplicações na base.
 
 As imagens abaixo demonstram a estrutura do fluxo no Power Automate:
 
-<img width="343" height="772" alt="image" src="https://github.com/user-attachments/assets/89e23b64-23bf-4b58-b5a2-66a256a9254b" />
+<img width="358" height="781" alt="image" src="https://github.com/user-attachments/assets/530d4648-21da-434d-b636-512efb98ad9b" />
 
 ---
 
